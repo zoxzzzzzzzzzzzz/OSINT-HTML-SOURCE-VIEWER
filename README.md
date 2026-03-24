@@ -8,3 +8,5 @@ Why not ! ive spent a long time working on it to make sure it has the best feaut
 Maybe you want someones css or js and they wont give it to you so you use my open source tool and fetch it anyways!
 
 # Thats it for now bye!
+
+# also i left visual notes for you to understand how some of it works!
